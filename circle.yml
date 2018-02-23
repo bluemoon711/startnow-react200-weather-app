@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: yf-weather-APP
+      appname: yf-weather-app
 machine:
   node:
     version: 8.1.4
